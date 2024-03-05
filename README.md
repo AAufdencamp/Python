@@ -1,1 +1,1 @@
-# Python
+# Python exercises I completed doing Udemy course: Python A-Z: Python for Data Science by Kirkill Eremenko & SuperDataScience. The code in these files is by Kirkill Eremenko & SuperDataScience , but notes and completion of the exercises are by me during each class sesssion.
