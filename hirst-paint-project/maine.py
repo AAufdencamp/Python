@@ -56,6 +56,7 @@ color_list = [(238, 248, 243), (251, 242, 246), (226, 237, 246), (30, 106, 145),
               (15, 49, 43), (76, 83, 23), (243, 168, 151), (134, 59, 83), (53, 60, 15), (223, 170, 191),
               (230, 100, 40), (1, 90, 120), (71, 157, 105), (164, 29, 25)]
 
+###My CODE###
 #use Turtle and color_list to paint 10 x 10 grid of dots of size 20, spacing apart by 50 paces
 #https://docs.python.org/3/library/turtle.html
 
